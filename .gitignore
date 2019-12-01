@@ -1,0 +1,11 @@
+# Java class files
+*.class
+/build
+/target/
+.idea/
+*/target/
+*/metastore_db
+/logs
+*/logs/
+*.log
+*.iml
